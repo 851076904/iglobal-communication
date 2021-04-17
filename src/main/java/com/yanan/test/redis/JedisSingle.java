@@ -1,4 +1,4 @@
-package com.yanan.controller.redis;
+package com.yanan.test.redis;
 
 import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisPool;
